@@ -12,16 +12,16 @@
 5. Once on unity run the game
 
 # Run the Game
-1. Once the game has run it would take you to the first page of the main menu where you click Start to go to Login and Sign In Page.
-2. In the Login and Sign In page you can either click on login to go to the Login page and login in using Username"ahmed" and Password"ahmed"
-3. Or go to sign in page to create a account with a new username and password, and click register, then go to login and register in you account.
-4. Once any is done, click on next to go on the lobbies page, there you can create a lobby or join a friends lobby.
-5. Until then click on create lobby and put any name in to go in a game.
+1. Once the game has run, it would take you to the first page of the main menu, where you click Start to go to Login and Sign In Page.
+2. In the Login and Sign In page, you can either click on login to go to the Login page and login in using Username"ahmed" and Password"ahmed"
+3. Or go to sign in page to create a account with a new username and password, and click "register", then go to login and register in you account.
+4. Once any is done, click on "next" to go on the lobbies page, there you can create a lobby or join a friends lobby.
+5. Until then click on create lobby and put any name in, to go in a game.
 
 # Playing the game
 1. Firstly, point your mouse in a postion to face forward in the game.
 2. To move the character click (up, down, left, right).
 3. to jump click (space).
 4. Now run as the Zombies are pursuing you.
-5. Once Caught by the zombies a Game Over function would appear with a button. Click on the button to go to the menu
-6. Once the button has been clicked it would take you to the first page where you can start game again or quit game.
+5. Once Caught by the zombies a Game Over function would appear with a button called menu. Click on the button to go to the menu.
+6. Once the button has been clicked it would take you to the first page, where you can start game again or quit game.
