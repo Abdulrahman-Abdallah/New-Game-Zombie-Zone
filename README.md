@@ -25,3 +25,9 @@
 4. Now run as the Zombies are pursuing you.
 5. Once Caught by the zombies a Game Over function would appear with a button called menu. Click on the button to go to the menu.
 6. Once the button has been clicked it would take you to the first page, where you can start game again or quit game.
+
+# Where items located
+Everyting is in assets
+In assets, resourses contains animations
+In assets, scenes contain some codes
+In assets, models contains the models created in blender
