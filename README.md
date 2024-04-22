@@ -27,7 +27,7 @@
 6. Once the button has been clicked it would take you to the first page, where you can start game again or quit game.
 
 # Where items located
-Everyting is in assets
-In assets, resourses contains animations
-In assets, scenes contain some codes
-In assets, models contains the models created in blender
+1. Everyting is in assets
+2. In assets, resourses contains animations
+3. In assets, scenes contain some codes
+4 .In assets, models contains the models created in blender
